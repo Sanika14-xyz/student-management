@@ -1,1 +1,1 @@
-console.log("Hello from MAIN");
+console.log("Hello from Student Management");
