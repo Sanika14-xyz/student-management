@@ -1,2 +1,1 @@
-console.log("Student Management");
-console.log("Main branch updated");
+console.log("Hello from FEATURE");
