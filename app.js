@@ -1,1 +1,1 @@
-console.log("Hello from FEATURE");
+console.log("Hello from Student Management");
